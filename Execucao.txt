@@ -1,0 +1,3 @@
+Execução
+Para executar o sistema, basta executar o arquivo main.py, inserir o número de nós desejado, e
+observar os logs no console. 
